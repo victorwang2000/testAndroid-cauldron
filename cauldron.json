@@ -14,7 +14,8 @@
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
-                  "https://github.com/victorwang2000/MyAndroidTestMiniApp.git#661cfb1a002d36dd78129a4e48811b686549b921"
+                  "https://github.com/victorwang2000/MyAndroidTestMiniApp.git#661cfb1a002d36dd78129a4e48811b686549b921",
+                  "https://github.com/victorwang2000/TestNewAppMiniApp.git#da50742"
                 ],
                 "nativeDeps": [
                   "react-native@0.59.10"
@@ -27,7 +28,7 @@
               "isReleased": false,
               "nativeDeps": [],
               "yarnLocks": {
-                "container": "a9e01dd4-eafa-4479-88ab-3fb1dc174385"
+                "container": "95828352-d656-420c-8294-ba7da094c66c"
               },
               "containerVersion": "1.0.0"
             }

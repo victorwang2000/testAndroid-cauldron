@@ -4219,6 +4219,13 @@ temp@0.8.3:
     os-tmpdir "^1.0.0"
     rimraf "~2.2.6"
 
+"test-new-miniapp@https://github.com/victorwang2000/TestNewAppMiniApp.git#da50742":
+  version "0.0.1"
+  resolved "https://github.com/victorwang2000/TestNewAppMiniApp.git#da50742ce9e10833a8f0280377fb088388fe3a49"
+  dependencies:
+    react "16.8.3"
+    react-native "0.59.10"
+
 throat@^4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/throat/-/throat-4.1.0.tgz#89037cbc92c56ab18926e6ba4cbb200e15672a6a"
